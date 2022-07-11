@@ -10,7 +10,7 @@ import './Header.css';
     )
 };
 
-export default Header();
+export default Header;
 
 //Header component then Nav component
 //Responsive
