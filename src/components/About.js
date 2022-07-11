@@ -2,6 +2,7 @@ import React from 'react';
 import './About.css';
 
 import aboutImage from './about-image.jpg';
+//import aboutImage from '.src/assets/cover/about-image.jpg';
 
 
 function About() {
